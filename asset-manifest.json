@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MonyPortfolio/static/css/main.dfaa2b8f.css",
-    "main.js": "/MonyPortfolio/static/js/main.0f6d230d.js",
-    "static/media/portfolio03.png": "/MonyPortfolio/static/media/portfolio03.337a1f45391681bf9e45.png",
-    "static/media/portfolio04.png": "/MonyPortfolio/static/media/portfolio04.0e2eb69275c6a840b510.png",
-    "static/media/Portfolio02.png": "/MonyPortfolio/static/media/Portfolio02.df3493b9225a28bf4763.png",
-    "static/media/PHOEUN_Mony_RESUME (2).pdf": "/MonyPortfolio/static/media/PHOEUN_Mony_RESUME (2).fee62919ed09ed812f2c.pdf",
-    "static/media/Portfolio01.png": "/MonyPortfolio/static/media/Portfolio01.f0299363d6fdea8458f8.png",
-    "static/media/bacII.jpg": "/MonyPortfolio/static/media/bacII.0445f90021869540ffbd.jpg",
-    "static/media/trancript.jpg": "/MonyPortfolio/static/media/trancript.847a0be27172dd80d5b0.jpg",
-    "static/media/Mony.jpg": "/MonyPortfolio/static/media/Mony.286c31431e50392e32e0.jpg",
-    "static/media/teambeast-logo-512x512-png.png": "/MonyPortfolio/static/media/teambeast-logo-512x512-png.8527a0523f8c3ad27272.png",
-    "index.html": "/MonyPortfolio/index.html",
-    "main.dfaa2b8f.css.map": "/MonyPortfolio/static/css/main.dfaa2b8f.css.map",
-    "main.0f6d230d.js.map": "/MonyPortfolio/static/js/main.0f6d230d.js.map"
+    "main.css": "/static/css/main.dfaa2b8f.css",
+    "main.js": "/static/js/main.7deb1647.js",
+    "static/media/portfolio03.png": "/static/media/portfolio03.337a1f45391681bf9e45.png",
+    "static/media/portfolio04.png": "/static/media/portfolio04.0e2eb69275c6a840b510.png",
+    "static/media/Portfolio02.png": "/static/media/Portfolio02.df3493b9225a28bf4763.png",
+    "static/media/PHOEUN_Mony_RESUME (2).pdf": "/static/media/PHOEUN_Mony_RESUME (2).fee62919ed09ed812f2c.pdf",
+    "static/media/Portfolio01.png": "/static/media/Portfolio01.f0299363d6fdea8458f8.png",
+    "static/media/bacII.jpg": "/static/media/bacII.0445f90021869540ffbd.jpg",
+    "static/media/trancript.jpg": "/static/media/trancript.847a0be27172dd80d5b0.jpg",
+    "static/media/Mony.jpg": "/static/media/Mony.286c31431e50392e32e0.jpg",
+    "static/media/teambeast-logo-512x512-png.png": "/static/media/teambeast-logo-512x512-png.8527a0523f8c3ad27272.png",
+    "index.html": "/index.html",
+    "main.dfaa2b8f.css.map": "/static/css/main.dfaa2b8f.css.map",
+    "main.7deb1647.js.map": "/static/js/main.7deb1647.js.map"
   },
   "entrypoints": [
     "static/css/main.dfaa2b8f.css",
-    "static/js/main.0f6d230d.js"
+    "static/js/main.7deb1647.js"
   ]
 }
